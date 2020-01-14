@@ -6,7 +6,7 @@
 
 
 
-<b> CirCuit Diagram </b>
+<b> Circuit Diagram </b>
 
 ![App image](https://github.com/Aizen741/Smart-Dustbin/blob/master/Images/Circuit.jpg)
 
